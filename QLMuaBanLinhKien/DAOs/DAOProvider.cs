@@ -10,7 +10,7 @@ namespace CuaHangLinhKienCode.DAO
 {
         public class DAOProvider
         {
-        string connectionSTR = "Data Source=DESKTOP-RIUA93F;Initial Catalog=CuaHangLinhKien;Integrated Security=True";
+        string connectionSTR = "Data Source=DESKTOP-7K8SKGO\\SQLEXPRESS;Initial Catalog=CuaHangLinhKien;Integrated Security=True";
 
         private static DAOProvider instance; // Ctrl + R + E
 
