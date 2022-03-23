@@ -49,6 +49,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DAOs\DAOProvider.cs" />
+    <Compile Include="DAOs\HangDAO.cs" />
+    <Compile Include="DAOs\HoaDonDAO.cs" />
+    <Compile Include="DAOs\KhachHangDAO.cs" />
+    <Compile Include="DAOs\PhieuNhapDAO.cs" />
+    <Compile Include="DAOs\TaiKhoanDAO.cs" />
+    <Compile Include="Models\Hang.cs" />
+    <Compile Include="Models\HoaDon.cs" />
+    <Compile Include="Models\KhachHang.cs" />
+    <Compile Include="Models\Nguoi.cs" />
+    <Compile Include="Models\PhieuNhap.cs" />
+    <Compile Include="Models\TaiKhoan.cs" />
     <Compile Include="Views\DangNhapView.cs">
       <SubType>Form</SubType>
     </Compile>

@@ -27,5 +27,7 @@ namespace CuaHangLinhKienCode.Model
 
         public int MaKhachHang { get => maKhachHang; set => maKhachHang = value; }
 
+
+
     }
 }
